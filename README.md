@@ -1,6 +1,8 @@
 # Capstone-Project-CS3299
 
 
+# Quantization-Based Image Encoding for Resource-Constrained Networks
+
 ### Description
 
 This project focuses on designing an efficient image compression and transmission system using quantization techniques. The goal is to reduce image size while preserving essential visual information, making it suitable for low-bandwidth or resource-constrained environments.
